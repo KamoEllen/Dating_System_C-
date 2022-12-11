@@ -17,6 +17,7 @@ class Profile
             this->hobbies = hobbies;
         }
 
+    
         string getName()
         {
             return name;
